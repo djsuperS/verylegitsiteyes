@@ -12,8 +12,8 @@
     
   }
 body {
-    background-image: url('//i.ytimg.com/vi/HLairL5Q86Y/maxresdefault.jpg')
-
+  background-image: url('//i.ytimg.com/vi/HLairL5Q86Y/maxresdefault.jpg');
+  margin: auto;
 }
 h2 {
     animation: color-change 0.5s infinite;
